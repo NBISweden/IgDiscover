@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 
 
 MINGROUPSIZE = 5
-MINEXPRESSED = 10
+MINEXPRESSED = 5
 MAXIMUM_SUBSAMPLE_SIZE = 1600
 
 
