@@ -143,7 +143,7 @@ seed: 1
 # even if no gene discovery is requested.
 #
 preprocessing_filter:
-  v_coverage: 90   # Match must cover V gene by at least this percentage
+  v_coverage: 97   # Match must cover V gene by at least this percentage
   j_coverage: 60   # Match must cover J gene by at least this percentage
   v_evalue: 0.001  # Highest allowed V gene match E-value
 
